@@ -1,5 +1,7 @@
 # NodeSeek-Signin
 
+[English](README_EN.md) · 简体中文
+
 <div align="center">
   
 ![NodeSeek](https://img.shields.io/badge/NodeSeek-自动签到-green)
